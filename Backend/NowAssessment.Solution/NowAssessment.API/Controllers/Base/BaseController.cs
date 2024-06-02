@@ -1,7 +1,6 @@
-﻿using Microsoft.AspNetCore.Http;
-using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Mvc;
 
-namespace NowAssessment.API.Controllers
+namespace NowAssessment.API.Controllers.Base
 {
     [Route("api/[controller]")]
     [ApiController]

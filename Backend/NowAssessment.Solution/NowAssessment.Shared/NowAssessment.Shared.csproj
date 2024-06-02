@@ -9,8 +9,10 @@
   <ItemGroup>
     <Folder Include="Enums\" />
     <Folder Include="Extentions\" />
-    <Folder Include="Response\" />
-    <Folder Include="Request\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MediatR" Version="12.2.0" />
   </ItemGroup>
 
 </Project>
